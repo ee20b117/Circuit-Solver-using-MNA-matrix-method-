@@ -1,1 +1,1 @@
-This repositary contains the code that uses MNA matrix method to solve circuits with independent sources and other passive components. 
+This repositary contains the code that uses MNA matrix method to solve circuits with independent sources and other passive components as a part of the course EE2703 [Assignment 2](https://github.com/ee20b117/Circuit-Solver-using-MNA-matrix-method-/blob/main/Assignment_2.pdf).
